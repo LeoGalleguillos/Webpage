@@ -1,0 +1,17 @@
+{
+    "autoload": {
+        "psr-4": {
+            "LeoGalleguillos\\Webpage\\": "src/",
+            "LeoGalleguillos\\WebpageTest\\": "test/"
+        }
+    },
+    "license": "MIT",
+    "name": "leo-galleguillos/webpage",
+    "require": {
+        "leo-galleguillos/html": "dev-master",
+        "leo-galleguillos/string": "dev-master",
+        "leo-galleguillos/test": "dev-master",
+        "zendframework/zend-test": "^3.1",
+        "zendframework/zend-db": "^2.9"
+    }
+}
